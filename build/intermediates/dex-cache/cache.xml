@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sandeepwww/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.7/cd78109020f9ec803ef4e652c17ee4615b03e20a/android-async-http-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.7-6ace467ba2b68776978346b6fa7d88cf8143044d.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c85b1acadddd47c9ea9d982a48af540710325015.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/it.sephiroth.android.library.viewrevealanimator/view-reveal-animator/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c1a1a95e1d650d457748bd9a41e61644ec6aae14">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-632aec837b67436032b47c63ba07995420ae8a8c.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-304fc73d8a0ebb62ff0a2e884cc00428c3471e16.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-451bc7111928564a05acb9468a648bc4cc5699e1.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-cf2d23a94ddd6d6b872076aaa3c6cae2455e0f60.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-18d71d012a4ad9b032f43e2461896d157ec3e353.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7eca3bf58eb58eff99cc61d02b9b6c35c9e50ff8.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/palette-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-92d1e043d94743667539964a052e4faf2d824ec4.jar" />
+    </item>
+    <item
+        jar="/home/sandeepwww/codefreak/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/sandeepwww/codefreak/app/build/intermediates/pre-dexed/debug/classes-48bf23b51960071292e5bb70bdf90b4ca4920bf9.jar" />
+    </item>
+
+</items>
