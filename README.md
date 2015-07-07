@@ -11,3 +11,7 @@ CodeForces
 TopCoder
 
 It provides with list of ongoing (live) and also upcoming events if any of all the above sites.
+
+![alt tag](https://raw.github.com/sandeepwww/CodeFreakApp/blob/master/screens/screen1.png)
+
+![alt tag](https://raw.github.com/sandeepwww/CodeFreakApp/blob/master/screens/screen2.png)
